@@ -1,0 +1,19 @@
+﻿@using WarehouseApp.Common
+@model WarehouseApp.Web.ViewModels.Home.IndexViewModel
+@{
+    this.ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to @GlobalConstants.SystemName!</h1>
+    <p>We have:</p>
+    <div class="col-md-4 offset-md-4">
+        <ul class="list-group">
+            <li class="list-group-item bg-info">Products: @Model.ProductsCount</li>
+            <li class="list-group-item bg-light">Cupboards: @Model.CupboardsCount</li>
+            <li class="list-group-item bg-info">Sections: @Model.SectionsCount</li>
+            <li class="list-group-item bg-light">Rooms: @Model.RoomsCount</li>
+        </ul>
+    </div>
+
+</div>

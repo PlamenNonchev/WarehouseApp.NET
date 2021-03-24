@@ -1,0 +1,24 @@
+﻿@model WarehouseApp.Web.ViewModels.Product.CupboardsListViewModel
+@{
+    this.ViewData["Title"] = "Catalog, page " + Model.PageNumber;
+
+}
+
+<h1>@this.ViewData["Title"]</h1>
+<hr />
+<div class="row">
+    @foreach(var cupboard in this.Model.Cupboards)
+    {
+        <div class="card col-md-3" style="width: 18rem;">
+            <img src="https://www.brownbuilt.com.au/wp-content/uploads/2013/06/swingdoor-cupboard-c20-open-silvergrey.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Cupboard @cupboard.Id</h5>
+                <p class="card-text">Capacity: @cupboard.CurrentLoad/@cupboard.Capacity</p>
+                <a asp-action="Cupboard" asp-route-id="@cupboard.Id" class="btn btn-primary">View contents</a>
+               
+            </div>
+        </div>
+    }
+</div>
+<hr />
+<partial name="_PagingPartial" model="@Model"/>

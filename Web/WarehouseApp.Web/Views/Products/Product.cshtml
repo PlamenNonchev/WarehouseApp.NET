@@ -1,0 +1,48 @@
+﻿@model WarehouseApp.Web.ViewModels.Product.ProductDetailsViewModel
+<div class="single-recipe-layout1">
+    <h1 class="item-title">@Model.Name</h1>
+    <div class="row mb-4">
+        <div class="col-xl-9 col-12">
+            <ul class="entry-meta">
+                <li class="single-meta">
+                    <a href="#">
+                        <i class="far fa-calendar-alt"></i>Added on: @Model.CreatedOn
+                    </a>
+                </li>
+                @*<li class="single-meta">
+                    <a href="#">
+                        <i class="fas fa-user"></i>by <span>
+                            Kazi
+                            Fahim
+                        </span>
+                    </a>
+                </li>*@
+            </ul>
+        </div>
+    </div>
+    
+    
+    
+    
+    <div class="making-elements-wrap">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="item-figure">
+                    <img src="@Model.ImageUrl" alt="Product">
+                </div>
+            </div>
+            <div class="col-xl-6 col-12">
+                <div class="ingridients-wrap">
+                    <h3 class="item-title"><i class="fas fa-list-ul"></i>Product Details</h3>
+                    <p>Description:</p>
+                    <p class="item-description">
+                        @Model.Description
+                    </p>
+                    <p>Price: <b>@Model.Price</b></p>
+                    <p>Total Quantity: <b>@Model.Quantity</b></p>
+                    <p>Available in cupboards: gethub</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -7,3 +7,12 @@ C:\Users\plame\Desktop\Project3\WarehouseApp.Common\obj\Debug\netstandard2.1\War
 C:\Users\plame\Desktop\Project3\WarehouseApp.Common\obj\Debug\netstandard2.1\WarehouseApp.Common.csproj.CoreCompileInputs.cache
 C:\Users\plame\Desktop\Project3\WarehouseApp.Common\obj\Debug\netstandard2.1\WarehouseApp.Common.dll
 C:\Users\plame\Desktop\Project3\WarehouseApp.Common\obj\Debug\netstandard2.1\WarehouseApp.Common.pdb
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\WarehouseApp.Common\bin\Debug\netstandard2.1\WarehouseApp.Common.deps.json
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\WarehouseApp.Common\bin\Debug\netstandard2.1\WarehouseApp.Common.dll
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\WarehouseApp.Common\bin\Debug\netstandard2.1\WarehouseApp.Common.pdb
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\WarehouseApp.Common\obj\Debug\netstandard2.1\WarehouseApp.Common.csprojAssemblyReference.cache
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\WarehouseApp.Common\obj\Debug\netstandard2.1\WarehouseApp.Common.AssemblyInfoInputs.cache
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\WarehouseApp.Common\obj\Debug\netstandard2.1\WarehouseApp.Common.AssemblyInfo.cs
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\WarehouseApp.Common\obj\Debug\netstandard2.1\WarehouseApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\WarehouseApp.Common\obj\Debug\netstandard2.1\WarehouseApp.Common.dll
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\WarehouseApp.Common\obj\Debug\netstandard2.1\WarehouseApp.Common.pdb

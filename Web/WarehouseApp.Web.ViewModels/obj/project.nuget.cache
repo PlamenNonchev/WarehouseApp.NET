@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3sUnEqwdoGhr59OjPcCqQaEfvLC5eJCtAVOLUEZK1Hnbbb6hiP4d8xnlcpeFNS39UeqDYf3PhGy32Iong1fP9A==",
+  "dgSpecHash": "j9CIYtNfAj+5pZfYAVQZ9bMfYTu00hY+t9CSDnLlkHkZEuvGU15kRAwGXSykYg2cPRS/LapelRRZfJv7u/Mhow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Web\\WarehouseApp.Web.ViewModels\\WarehouseApp.Web.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Web\\WarehouseApp.Web.ViewModels\\WarehouseApp.Web.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plame\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\plame\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.1\\microsoft.aspnetcore.cryptography.internal.5.0.1.nupkg.sha512",

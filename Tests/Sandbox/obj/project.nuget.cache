@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MpeObnFJmajlGNkGoJjMKcXd/lmlIgaAUPiRSr43kCZWguDYaSEbD6cxOrtXnO9gYdHgLkgDfovxO2zLcahlQw==",
+  "dgSpecHash": "bRT0sXZW4UKPoMQdQRC6Vnl6PHYeGOG3aGBpd6oY+8dHe6tTC+4R3yezwWfYoUxw4oE776qWvjib6jgP1ip3gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Tests\\Sandbox\\Sandbox.csproj",
+  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Tests\\Sandbox\\Sandbox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plame\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\plame\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",

@@ -16,3 +16,12 @@ C:\Users\plame\Desktop\WarehouseApp\Services\WarehouseApp.Services.Messaging\obj
 C:\Users\plame\Desktop\WarehouseApp\Services\WarehouseApp.Services.Messaging\obj\Debug\netstandard2.1\WarehouseApp.Services.Messaging.csproj.CoreCompileInputs.cache
 C:\Users\plame\Desktop\WarehouseApp\Services\WarehouseApp.Services.Messaging\obj\Debug\netstandard2.1\WarehouseApp.Services.Messaging.dll
 C:\Users\plame\Desktop\WarehouseApp\Services\WarehouseApp.Services.Messaging\obj\Debug\netstandard2.1\WarehouseApp.Services.Messaging.pdb
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\Services\WarehouseApp.Services.Messaging\bin\Debug\netstandard2.1\WarehouseApp.Services.Messaging.deps.json
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\Services\WarehouseApp.Services.Messaging\bin\Debug\netstandard2.1\WarehouseApp.Services.Messaging.dll
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\Services\WarehouseApp.Services.Messaging\bin\Debug\netstandard2.1\WarehouseApp.Services.Messaging.pdb
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\Services\WarehouseApp.Services.Messaging\obj\Debug\netstandard2.1\WarehouseApp.Services.Messaging.csprojAssemblyReference.cache
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\Services\WarehouseApp.Services.Messaging\obj\Debug\netstandard2.1\WarehouseApp.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\Services\WarehouseApp.Services.Messaging\obj\Debug\netstandard2.1\WarehouseApp.Services.Messaging.AssemblyInfo.cs
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\Services\WarehouseApp.Services.Messaging\obj\Debug\netstandard2.1\WarehouseApp.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\Services\WarehouseApp.Services.Messaging\obj\Debug\netstandard2.1\WarehouseApp.Services.Messaging.dll
+C:\Users\plame\Desktop\TEZD\WarehouseApp.NET-main\Services\WarehouseApp.Services.Messaging\obj\Debug\netstandard2.1\WarehouseApp.Services.Messaging.pdb

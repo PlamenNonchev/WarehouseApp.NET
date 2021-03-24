@@ -6768,11 +6768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Tests\\Sandbox\\Sandbox.csproj",
+      "projectUniqueName": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Tests\\Sandbox\\Sandbox.csproj",
       "projectName": "Sandbox",
-      "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Tests\\Sandbox\\Sandbox.csproj",
+      "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Tests\\Sandbox\\Sandbox.csproj",
       "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Tests\\Sandbox\\obj\\",
+      "outputPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Tests\\Sandbox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6789,29 +6789,29 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\plame\\Desktop\\WarehouseApp\\Data\\WarehouseApp.Data.Common\\WarehouseApp.Data.Common.csproj": {
-              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Data\\WarehouseApp.Data.Common\\WarehouseApp.Data.Common.csproj"
+            "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Data\\WarehouseApp.Data.Common\\WarehouseApp.Data.Common.csproj": {
+              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Data\\WarehouseApp.Data.Common\\WarehouseApp.Data.Common.csproj"
             },
-            "C:\\Users\\plame\\Desktop\\WarehouseApp\\Data\\WarehouseApp.Data.Models\\WarehouseApp.Data.Models.csproj": {
-              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Data\\WarehouseApp.Data.Models\\WarehouseApp.Data.Models.csproj"
+            "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Data\\WarehouseApp.Data.Models\\WarehouseApp.Data.Models.csproj": {
+              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Data\\WarehouseApp.Data.Models\\WarehouseApp.Data.Models.csproj"
             },
-            "C:\\Users\\plame\\Desktop\\WarehouseApp\\Data\\WarehouseApp.Data\\WarehouseApp.Data.csproj": {
-              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Data\\WarehouseApp.Data\\WarehouseApp.Data.csproj"
+            "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Data\\WarehouseApp.Data\\WarehouseApp.Data.csproj": {
+              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Data\\WarehouseApp.Data\\WarehouseApp.Data.csproj"
             },
-            "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services.Data\\WarehouseApp.Services.Data.csproj": {
-              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services.Data\\WarehouseApp.Services.Data.csproj"
+            "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services.Data\\WarehouseApp.Services.Data.csproj": {
+              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services.Data\\WarehouseApp.Services.Data.csproj"
             },
-            "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services.Mapping\\WarehouseApp.Services.Mapping.csproj": {
-              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services.Mapping\\WarehouseApp.Services.Mapping.csproj"
+            "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services.Mapping\\WarehouseApp.Services.Mapping.csproj": {
+              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services.Mapping\\WarehouseApp.Services.Mapping.csproj"
             },
-            "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services.Messaging\\WarehouseApp.Services.Messaging.csproj": {
-              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services.Messaging\\WarehouseApp.Services.Messaging.csproj"
+            "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services.Messaging\\WarehouseApp.Services.Messaging.csproj": {
+              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services.Messaging\\WarehouseApp.Services.Messaging.csproj"
             },
-            "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services\\WarehouseApp.Services.csproj": {
-              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services\\WarehouseApp.Services.csproj"
+            "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services\\WarehouseApp.Services.csproj": {
+              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services\\WarehouseApp.Services.csproj"
             },
-            "C:\\Users\\plame\\Desktop\\WarehouseApp\\WarehouseApp.Common\\WarehouseApp.Common.csproj": {
-              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\WarehouseApp.Common\\WarehouseApp.Common.csproj"
+            "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\WarehouseApp.Common\\WarehouseApp.Common.csproj": {
+              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\WarehouseApp.Common\\WarehouseApp.Common.csproj"
             }
           }
         }

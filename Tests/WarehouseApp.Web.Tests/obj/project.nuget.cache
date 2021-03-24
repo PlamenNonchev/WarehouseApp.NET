@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KuOuIHkk1xMJJBe7hUpc+pgWrsT6R2ivkkzLBgAkCIObez/xPRjR/ICUbE3m1sLz/BG4JdrztWep8ux0RSq6hw==",
+  "dgSpecHash": "ntrNq+h82O5gvWgvnQdoasTCtk3FbI7YirixxyTg6Foo7oMLGH/ggoNEikQMsCfyx80R3hojxFO772OuXD5bow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Tests\\WarehouseApp.Web.Tests\\WarehouseApp.Web.Tests.csproj",
+  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Tests\\WarehouseApp.Web.Tests\\WarehouseApp.Web.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plame\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\plame\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",

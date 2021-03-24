@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MYs+1qSy3+VKPU7c+Yqdtbq30D5h7ZBkwbEWEySpFBecKlJBSmMmZtSNMyAodMh2eiB0Kh0l9uYZ/U5GcD9gYQ==",
+  "dgSpecHash": "xNcCoYaO9ezeuwnxNAAEu4LT6T6tmYMNYDG5CFmmjlrmgShrkGm/m1Y/y66ObrgBZX8duZHohEiVqnUGFL0Igg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services.Messaging\\WarehouseApp.Services.Messaging.csproj",
+  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services.Messaging\\WarehouseApp.Services.Messaging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plame\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\plame\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",

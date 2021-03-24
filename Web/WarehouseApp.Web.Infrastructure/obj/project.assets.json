@@ -65,11 +65,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Web\\WarehouseApp.Web.Infrastructure\\WarehouseApp.Web.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Web\\WarehouseApp.Web.Infrastructure\\WarehouseApp.Web.Infrastructure.csproj",
       "projectName": "WarehouseApp.Web.Infrastructure",
-      "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Web\\WarehouseApp.Web.Infrastructure\\WarehouseApp.Web.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Web\\WarehouseApp.Web.Infrastructure\\WarehouseApp.Web.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Web\\WarehouseApp.Web.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Web\\WarehouseApp.Web.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",

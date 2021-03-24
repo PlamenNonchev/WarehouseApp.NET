@@ -8849,11 +8849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Tests\\WarehouseApp.Services.Data.Tests\\WarehouseApp.Services.Data.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Tests\\WarehouseApp.Services.Data.Tests\\WarehouseApp.Services.Data.Tests.csproj",
       "projectName": "WarehouseApp.Services.Data.Tests",
-      "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Tests\\WarehouseApp.Services.Data.Tests\\WarehouseApp.Services.Data.Tests.csproj",
+      "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Tests\\WarehouseApp.Services.Data.Tests\\WarehouseApp.Services.Data.Tests.csproj",
       "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Tests\\WarehouseApp.Services.Data.Tests\\obj\\",
+      "outputPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Tests\\WarehouseApp.Services.Data.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8870,11 +8870,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\plame\\Desktop\\WarehouseApp\\Data\\WarehouseApp.Data\\WarehouseApp.Data.csproj": {
-              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Data\\WarehouseApp.Data\\WarehouseApp.Data.csproj"
+            "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Data\\WarehouseApp.Data\\WarehouseApp.Data.csproj": {
+              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Data\\WarehouseApp.Data\\WarehouseApp.Data.csproj"
             },
-            "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services.Data\\WarehouseApp.Services.Data.csproj": {
-              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services.Data\\WarehouseApp.Services.Data.csproj"
+            "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services.Data\\WarehouseApp.Services.Data.csproj": {
+              "projectPath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Services\\WarehouseApp.Services.Data\\WarehouseApp.Services.Data.csproj"
             }
           }
         }

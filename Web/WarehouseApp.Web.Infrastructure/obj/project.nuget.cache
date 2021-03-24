@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/TBjaNoMSWLTE97a/U73kGnE6qdJvyyAFcjM/ASGSMVhJCEGfZEeWeNRBuGqE9ddYtOtFd+rU29wujphTFJtA==",
+  "dgSpecHash": "i66/DbH2QRyPzYSrF/MPxdvgS6fxsVmhi5UIQMryFr91A5xdIxYAObwc5dBYGlGRPXSnYQ9nNERHt1APzJjtTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Web\\WarehouseApp.Web.Infrastructure\\WarehouseApp.Web.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Web\\WarehouseApp.Web.Infrastructure\\WarehouseApp.Web.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plame\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
     "C:\\Users\\plame\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"

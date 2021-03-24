@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xt1l8Qt+zYmXqCthbhSd6R2cQduM2iwVWlQMWNyhaHMUvHXKtXuwpSbu8SInOuzbpKfwKr4UWMl2EeyX5DrYTA==",
+  "dgSpecHash": "A95KL0fTX6qybeMy9axcb9p5PBU4wBCgWCTCXsL7EkBl3Sz+i5TXD9gXqY/WrIDQivl0rI0Tq0WstmUFqOgDnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Tests\\WarehouseApp.Services.Data.Tests\\WarehouseApp.Services.Data.Tests.csproj",
+  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Tests\\WarehouseApp.Services.Data.Tests\\WarehouseApp.Services.Data.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plame\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\plame\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

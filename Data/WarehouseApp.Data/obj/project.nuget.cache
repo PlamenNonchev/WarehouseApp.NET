@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PgYRgwHye2vYkgtl0NUJpuhhKSwqnlpx72CaOzwveIKld4D1cATVj9cP03YQp2OdaYXdEtPG3XsNqD775EqWGQ==",
+  "dgSpecHash": "hyj495miQ3hdXNONZDLmUXZOTJJkNVuQSTlw/+d/hA+5Km9DA/p8G/IGQodO206AjLGUjrWuTLEnla+AbS3OhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Data\\WarehouseApp.Data\\WarehouseApp.Data.csproj",
+  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp.NET\\Data\\WarehouseApp.Data\\WarehouseApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plame\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\plame\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.1\\microsoft.aspnetcore.cryptography.internal.5.0.1.nupkg.sha512",

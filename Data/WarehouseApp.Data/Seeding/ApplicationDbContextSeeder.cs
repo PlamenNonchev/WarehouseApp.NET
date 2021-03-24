@@ -27,6 +27,12 @@
                           {
                               new RolesSeeder(),
                               new SettingsSeeder(),
+                              new RoomsSeeder(),
+                              new SectionsSeeder(),
+                              new CupboardsSeeder(),
+                              new ProductsSeeder(),
+                              new CupboardProductsSeeder(),
+
                           };
 
             foreach (var seeder in seeders)

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1AVA4Vp1jilQiMVb9Y7/zhz4lXPZ83n9K6A5RFsawuz71xAtXzGe2NB4TKJyCargOjuHI2ityzRUY4mNTbnsjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Data\\WarehouseApp.Data.Common\\WarehouseApp.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plame\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\plame\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\plame\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

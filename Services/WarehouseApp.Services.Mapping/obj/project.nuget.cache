@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VufWiPUe8dxIoLuc2XQMGlyul0lHkGt6iAnhVpzbLgg7BGIB1MFhBijLSkpQNYm4gpO2+pdWLyP0JjGibpI+xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services.Mapping\\WarehouseApp.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plame\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\plame\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\plame\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\plame\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\plame\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

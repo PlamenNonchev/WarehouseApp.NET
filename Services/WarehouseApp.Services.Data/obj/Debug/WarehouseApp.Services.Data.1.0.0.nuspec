@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WarehouseApp.Services.Data</id>
+    <version>1.0.0</version>
+    <authors>WarehouseApp.Services.Data</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="WarehouseApp.Data.Common" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="WarehouseApp.Data.Models" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="WarehouseApp.Services.Mapping" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\plame\Desktop\Project3\Services\WarehouseApp.Services.Data\bin\Debug\netstandard2.1\WarehouseApp.Services.Data.dll" target="lib\netstandard2.1\WarehouseApp.Services.Data.dll" />
+  </files>
+</package>

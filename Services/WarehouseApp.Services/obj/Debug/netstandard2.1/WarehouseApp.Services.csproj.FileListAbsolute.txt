@@ -1,0 +1,9 @@
+C:\Users\plame\Desktop\Project3\Services\WarehouseApp.Services\bin\Debug\netstandard2.1\WarehouseApp.Services.deps.json
+C:\Users\plame\Desktop\Project3\Services\WarehouseApp.Services\bin\Debug\netstandard2.1\WarehouseApp.Services.dll
+C:\Users\plame\Desktop\Project3\Services\WarehouseApp.Services\bin\Debug\netstandard2.1\WarehouseApp.Services.pdb
+C:\Users\plame\Desktop\Project3\Services\WarehouseApp.Services\obj\Debug\netstandard2.1\WarehouseApp.Services.csprojAssemblyReference.cache
+C:\Users\plame\Desktop\Project3\Services\WarehouseApp.Services\obj\Debug\netstandard2.1\WarehouseApp.Services.AssemblyInfoInputs.cache
+C:\Users\plame\Desktop\Project3\Services\WarehouseApp.Services\obj\Debug\netstandard2.1\WarehouseApp.Services.AssemblyInfo.cs
+C:\Users\plame\Desktop\Project3\Services\WarehouseApp.Services\obj\Debug\netstandard2.1\WarehouseApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\plame\Desktop\Project3\Services\WarehouseApp.Services\obj\Debug\netstandard2.1\WarehouseApp.Services.dll
+C:\Users\plame\Desktop\Project3\Services\WarehouseApp.Services\obj\Debug\netstandard2.1\WarehouseApp.Services.pdb

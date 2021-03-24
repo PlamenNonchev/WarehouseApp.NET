@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GxsYuRwbLxDS5OMTT8LXwFOEHkOOUORbxBb66v1BvY9JG5kLb7iZshuHEGv7ddls06z66fv3QCdC6vPxHHMVQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plame\\Desktop\\WarehouseApp\\Services\\WarehouseApp.Services\\WarehouseApp.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plame\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\plame\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

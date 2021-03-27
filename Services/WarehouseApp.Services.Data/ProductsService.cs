@@ -77,21 +77,31 @@ namespace WarehouseApp.Services.Data
 
         public async Task RestockAsync(RestockProductInputModel input)
         {
-            var cupboards = this.cupboardsRepository.AllAsNoTracking().Include(x => x.CupboardProducts);
-            var cupboard = cupboards.FirstOrDefault(c => c.Id == input.CupboardId);
+            var cupboard = this.cupboardsRepository.AllAsNoTracking().Include(x => x.CupboardProducts).FirstOrDefault(c => c.Id == input.CupboardId);
+            var cupboardProductIds = this.cupboardProductsRepository.AllAsNoTracking().Where(c => c.CupboardId == cupboard.Id).Select(p => p.ProductId).ToList();
+
             var allowedQuantity = cupboard.Capacity;
             if(input.Quantity + cupboard.CurrentLoad > allowedQuantity)
             {
                 throw new Exception("Total quantity must not exceed the maximum capacity of the Cupboard!");
             }
-            var restockedProduct = new CupboardProduct
+            if (cupboardProductIds.Contains(input.ProductId))
             {
-                CupboardId = input.CupboardId,
-                Quantity = input.Quantity,
-                ProductId = input.ProductId
-            };
+                var cupboardProduct = this.cupboardProductsRepository.AllAsNoTracking().FirstOrDefault(cp => cp.CupboardId == cupboard.Id && cp.ProductId == input.ProductId);
+                cupboardProduct.Quantity += input.Quantity;
+                this.cupboardProductsRepository.Update(cupboardProduct);
+            }
+            else
+            {
+                var restockedProduct = new CupboardProduct
+                {
+                    CupboardId = input.CupboardId,
+                    Quantity = input.Quantity,
+                    ProductId = input.ProductId
+                };
+                await this.cupboardProductsRepository.AddAsync(restockedProduct);
+            }
 
-            await this.cupboardProductsRepository.AddAsync(restockedProduct);
             await this.cupboardProductsRepository.SaveChangesAsync();
         }
 

@@ -52,7 +52,21 @@ namespace WarehouseApp.Web.Controllers
                 return this.View();
             }
 
-            await this.productsService.CreateAsync(input);
+            try
+            {
+                await this.productsService.CreateAsync(input);
+            }
+            catch (Exception ex)
+            {
+                this.ModelState.AddModelError(string.Empty, ex.Message);
+                
+                ViewData["CupboardsList"] = cupboardsService.GetAllCupboards().Select(x => new SelectListItem
+                {
+                    Text = "Cupboard No." + x.Id + " : " + x.CurrentLoad.ToString() + "/" + x.Capacity.ToString(),
+                    Value = x.Id.ToString(),
+                }).ToList();
+                return this.View();
+            }
 
             return this.Redirect("/");
         }

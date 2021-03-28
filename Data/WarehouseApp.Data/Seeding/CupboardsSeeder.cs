@@ -18,6 +18,7 @@ namespace WarehouseApp.Data.Seeding
 
             await dbContext.Cupboards.AddAsync(new Cupboard { SectionId = 1, Capacity = 100, IsFull = false });
             await dbContext.Cupboards.AddAsync(new Cupboard { SectionId = 1, Capacity = 200, IsFull = false });
+            await dbContext.Cupboards.AddAsync(new Cupboard { SectionId = 1, Capacity = 300, IsFull = false });
 
             await dbContext.SaveChangesAsync();
         }

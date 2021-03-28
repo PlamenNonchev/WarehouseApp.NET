@@ -97,7 +97,7 @@ namespace WarehouseApp.Services.Data
                 {
                     CupboardId = input.CupboardId,
                     Quantity = input.Quantity,
-                    ProductId = input.ProductId
+                    ProductId = input.ProductId,
                 };
                 await this.cupboardProductsRepository.AddAsync(restockedProduct);
             }

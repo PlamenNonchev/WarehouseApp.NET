@@ -76,6 +76,8 @@ body {
 .card {
     margin: 10px !important;
 }
+
+
 .card-img-top {
     display: block;
     max-height: 253px;

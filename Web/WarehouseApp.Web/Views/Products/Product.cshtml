@@ -29,6 +29,15 @@
                     <p>Price: <b>@Model.Price</b></p>
                     <p>Total Quantity: <b>@Model.Quantity</b></p>
                     <p>Available in cupboards:</p>
+                    @foreach (var item in Model.ProductCupboards)
+                    {
+                        <div class="card" style="width: 9rem; height: 10rem">
+                            <img src="https://www.brownbuilt.com.au/wp-content/uploads/2013/06/swingdoor-cupboard-c20-open-silvergrey.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <a asp-action="Cupboard" asp-route-id="@item.CupboardId" class="stretched-link">Cupboard №@item.CupboardId</a>
+                            </div>
+                        </div>
+                    }
                 </div>
             </div>
         </div>
